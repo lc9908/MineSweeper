@@ -12,7 +12,7 @@ You can right click to put the flag if you think the square is the mine. You can
 
 <img src="https://user-images.githubusercontent.com/92962941/211383834-c5b21108-b5eb-4da7-b499-b71e70ce0720.png"  height="300px" width="300px">
 
-If you click on a bomb, you lose the game and all the bomb will be revealed and the game will be stopped and the window will be closed
+If you click on a bomb, you lose the game and all the bomb will be revealed. The game will be stopped and the window will be closed
 <img src="https://user-images.githubusercontent.com/92962941/211384043-2a5cdeec-69eb-42dd-8fe3-d026eae5b16f.png"  height="300px" width="300px">
 
 If you click all the square that is not the mines, you win the game.<br>
